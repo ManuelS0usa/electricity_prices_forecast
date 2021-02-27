@@ -1,4 +1,4 @@
-# Electricity Prices Forecast using Machine Learning Methods
+# Electricity Prices Forecast using Neural Networks
 
 
     To run the built project, on cmd
@@ -9,7 +9,7 @@
 
 
 ##### Problem description
-
+Using a data set from OMIE daily markets electricity prices, a model using artificial neural network is built in order to forecast electricity prices multi steps ahead. This script is a development raw sample construction, of a data science project to be continued, improved and tested in order to result a production level. 
 
 
 

@@ -2,6 +2,8 @@
 
 
     To run the built project, on cmd
+     - create virtual env 
+     - pip install requirements.txt
      - env\Scripts\activate
      - jupyter notebook
     

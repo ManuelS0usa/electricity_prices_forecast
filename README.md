@@ -1,7 +1,7 @@
 # Electricity Prices Forecast using Neural Networks
 
 
-    To run this project, on cmd:
+    To run this project:
      - create virtual env 
      - pip install requirements.txt
      - env\Scripts\activate
